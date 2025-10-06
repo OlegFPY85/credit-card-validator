@@ -1,0 +1,13 @@
+Credit Card Validator
+Image Credits:
+
+Visa logo: https://www.visa.com
+MasterCard logo: https://www.mastercard.com
+Mir logo: https://mironline.ru
+American Express logo: https://www.americanexpress.com
+Discover logo: https://www.discover.com
+JCB logo: https://www.global.jcb
+Maestro logo: https://www.mastercard.com
+Diners Club logo: https://www.dinersclub.com
+
+All logos are used for educational purposes in this project.
