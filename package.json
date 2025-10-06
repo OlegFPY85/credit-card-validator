@@ -2,6 +2,7 @@
   "name": "credit-card-validator",
   "version": "1.0.0",
   "description": "Credit card number validator with payment system detection",
+  "homepage": "https://OlegFPY85.github.io/credit-card-validator",
   "main": "src/index.js",
   "scripts": {
     "build": "webpack --mode=production",
@@ -9,6 +10,7 @@
     "test": "jest",
     "test:unit": "jest tests/unit",
     "test:e2e": "jest tests/e2e --config=jest.e2e.config.js",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
   "keywords": ["credit-card", "validator", "luhn-algorithm"],
