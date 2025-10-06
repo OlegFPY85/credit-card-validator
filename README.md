@@ -2,11 +2,7 @@
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/OlegFPY85/credit-card-validator/deploy.yml?branch=main&label=Build&logo=github)](https://github.com/OlegFPY85/credit-card-validator/actions)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-success?logo=githubpages)](https://OlegFPY85.github.io/credit-card-validator)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-## 🚀 Live Demo
-
-**[https://OlegFPY85.github.io/credit-card-validator](https://OlegFPY85.github.io/credit-card-validator)**
 
 ## 📋 Description
 
@@ -65,5 +61,6 @@ Webpack 5
 Jest + Puppeteer
 
 GitHub Actions
+
 
 GitHub Pages
